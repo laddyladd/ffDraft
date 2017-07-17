@@ -1,0 +1,251 @@
+Player,Yds,TD,Int,Yds,TD,Yds,TD,FumTD,2PT,Lost,Points
+Aaron Rodgers   QB - GB,4428,40,7,369,4,-,-,-,2,4,380.02
+Matt Ryan   QB - ATL,4944,38,7,117,-,-,-,-,2,2,347.46
+Drew Brees   QB - NO,5208,37,15,20,2,-,-,-,-,4,332.32
+David Johnson  RB - ARI,-,-,-,1239,16,879,4,-,1,3,327.8
+Andrew Luck  QB - IND,4240,31,13,341,2,-,-,-,2,5,307.7
+Kirk Cousins  QB - WAS,4917,25,12,96,4,-,-,-,-,3,300.28
+Ezekiel Elliott  RB - DAL,-,-,-,1631,15,363,1,-,-,1,293.4
+Dak Prescott  QB - DAL,3667,23,4,282,6,-,-,-,-,4,286.88
+Matthew Stafford  QB - DET,4327,24,10,207,2,-,-,-,1,2,279.78
+Tyrod Taylor  QB - BUF,3023,17,6,580,6,-,-,-,2,2,270.92
+Blake Bortles  QB - JAX,3905,23,16,359,3,20,1,-,2,6,270.1
+Derek Carr  QB - OAK,3937,28,6,70,-,-,-,-,5,3,268.48
+Russell Wilson  QB - SEA,4219,21,11,259,1,14,1,-,1,2,268.06
+Andy Dalton  QB - CIN,4206,18,8,184,4,-,-,-,-,3,260.64
+Marcus Mariota  QB -  TEN,3426,26,9,349,2,-,-,-,-,5,259.94
+Philip Rivers  QB - LAC,4386,33,21,35,-,-,-,-,-,5,258.94
+Tom Brady  QB - NE,3554,28,2,64,-,-,-,-,1,-,258.56
+Jameis Winston  QB - TB,4090,28,18,165,1,-,-,-,3,6,256.1
+Cam Newton  QB - CAR,3509,19,14,359,5,-,-,-,2,2,254.26
+Ben Roethlisberger  QB - PIT,3819,29,13,14,1,-,-,-,3,2,252.16
+LeSean McCoy  RB - BUF,-,-,-,1267,13,356,1,-,1,-,248.3
+Carson Palmer  QB - ARI,4233,26,14,38,-,-,-,-,1,4,243.12
+Joe Flacco  QB - BAL,4317,20,15,58,2,-,-,-,4,3,242.48
+Le'Veon Bell  RB - PIT,-,-,-,1268,7,616,2,-,1,1,242.4
+DeMarco Murray  RB -  TEN,10,1,-,1287,9,377,3,-,-,1,240.8
+Devonta Freeman RB - ATL,-,-,-,1079,11,462,2,-,-,1,230.1
+LeGarret TE Blount RB - PHI,-,-,-,1161,18,38,-,-,-,1,225.9
+Eli Manning QB - NYG,4027,26,16,-9,-,-,-,-,-,4,224.18
+Alex Smith QB - KC,3502,15,8,134,5,3,-,-,2,4,223.78
+Sam Bradford QB - MIN,3877,20,5,53,-,5,-,-,-,5,220.88
+Carson Wentz QB - PHI,3782,16,14,150,2,7,-,-,2,3,212.98
+Melvin Gordon RB - LAC,-,-,-,997,10,419,2,-,-,2,209.6
+Mike Evans WR - TB,-,-,-,-,-,1321,12,-,2,-,208.1
+Jordy Nelson WR - GB,-,-,-,-,-,1257,14,-,-,1,207.7
+Antonio Brown WR - PIT,-,-,-,9,-,1284,12,-,-,-,201.3
+Jordan Howard RB - CHI,-,-,-,1313,6,298,1,-,-,1,201.1
+Colin Kaepernick QB,2241,16,4,468,2,-,-,-,1,3,200.44
+Mark Ingram RB - NO,-,-,-,1043,6,319,4,-,2,2,196.2
+Odell Beckham WR - NYG,-,-,-,9,-,1367,10,-,-,1,195.6
+Trevor Siemian QB - DEN,3401,18,10,57,-,-,-,-,1,2,191.74
+Ryan Tannehill QB - MIA,2995,19,12,164,1,-,-,-,1,3,190.2
+Jay Ajayi RB - MIA,-,-,-,1272,8,151,-,-,-,1,188.3
+T.Y. Hilton WR - IND,-,-,-,-,-,1448,6,-,1,-,182.8
+Julio Jones WR - ATL,-,-,-,-,-,1409,6,-,-,-,176.9
+Frank Gore RB - IND,-,-,-,1025,4,277,4,-,-,1,176.2
+Latavius Murray RB - MIN,-,-,-,788,12,264,-,-,-,1,175.2
+Davan TE Adams WR - GB,-,-,-,-,-,997,12,-,1,1,171.7
+Brandin Cooks WR - NE,-,-,-,30,-,1173,8,-,-,-,168.3
+Brock Osweiler QB - CLE,2957,15,16,131,2,-14,-,-,-,1,167.98
+Isaiah Crowell RB - CLE,-,-,-,952,7,319,-,-,-,2,165.1
+Carlos Hyde RB - SF,-,-,-,988,6,163,3,-,1,3,165.1
+Michael Thomas WR - NO,-,-,-,-,-,1137,9,-,-,2,163.7
+Spencer Ware RB - KC,-,-,-,921,3,447,2,-,-,3,160.8
+ TEvin Coleman RB - ATL,-,-,-,520,8,421,3,-,-,-,160.1
+Lamar Miller RB - HOU,-,-,-,1073,5,188,1,-,-,1,160.1
+Doug Baldwin WR - SEA,15,1,-,2,-,1128,7,-,-,-,159.6
+Jeremy Hill RB - CIN,-,-,-,839,9,174,-,-,-,-,155.3
+Todd Gurley RB - LA,-,-,-,885,6,327,-,-,-,1,155.2
+Matt For TE RB - NYJ,-,-,-,813,7,263,1,-,-,1,153.6
+Michael Crabtree WR - OAK,-,-,-,-,-,1003,8,-,1,-,150.3
+Amari Cooper WR - OAK,-,-,-,-,-,1153,5,-,2,-,149.3
+Tyrell Williams WR - LAC,-,-,-,-,-,1059,7,-,-,-,147.9
+Rishard Matthews WR -  TEN,-,-,-,-,-,945,9,-,-,1,146.5
+Bilal Powell RB - NYJ,-,-,-,722,3,388,2,-,-,1,139
+Jonathan S TEwart RB - CAR,-,-,-,824,9,60,-,-,-,2,138.4
+Tyreek Hill WR - KC,-,-,-,267,3,593,6,-,-,1,138
+Travis Kelce TE - KC,-,-,-,-5,-,1125,4,-,1,-,138
+Jarvis Landry WR - MIA,-,-,-,17,-,1136,4,-,1,2,137.3
+ TErrance West RB - BAL,-,-,-,774,5,236,1,-,-,-,137
+Larry Fitzgerald WR - ARI,-,-,-,5,-,1023,6,-,-,1,136.8
+ TErrelle Pryor WR - WAS,41,-,-,21,1,1007,4,-,1,-,136.44
+Demaryius Thomas WR - DEN,-,-,-,-,-,1083,5,-,1,2,136.3
+Kelvin Benjamin WR - CAR,-,-,-,-,-,941,7,-,-,1,134.1
+Emmanuel Sanders WR - DEN,-,-,-,4,-,1032,5,-,-,-,133.6
+Ryan Fitzpatrick QB - TB,2710,12,17,130,-,-,-,-,-,1,133.4
+Julian Edelman WR - NE,-,-,-,57,-,1106,3,-,1,2,132.3
+Golden Ta TE WR - DET,-,-,-,4,-,1077,4,-,1,1,132.1
+Ryan Mathews RB - PHI,-,-,-,661,8,115,1,-,2,2,131.6
+Mike Wallace WR - BAL,-,-,-,31,-,1017,4,-,1,-,130.8
+Dez Bryant WR - DAL,10,1,-,-,-,796,8,-,-,1,130
+Kenny Britt WR - CLE,-,-,-,-,-,1002,5,-,-,1,128.2
+Greg Olsen TE - CAR,-,-,-,-,-,1073,3,-,1,-,127.3
+Kenny Stills WR - MIA,-,-,-,-,-,726,9,-,-,-,126.6
+Allen Robinson WR - JAX,-,-,-,-,-,883,6,-,1,-,126.3
+Adam Thielen WR - MIN,-,-,-,15,-,967,5,-,-,1,126.2
+Kyle Rudolph TE - MIN,-,-,-,-,-,840,7,-,-,-,126
+Jamison Crowder WR - WAS,-,-,-,-2,-,847,7,-,-,1,124.5
+DeSean Jackson WR - TB,-,-,-,-,-,1005,4,-,-,-,124.5
+Jimmy Graham TE - SEA,-,-,-,-,-,923,6,-,-,2,124.3
+Delanie Walker TE -  TEN,-,-,-,11,-,800,7,-,-,-,123.1
+Pierre Garcon WR - SF,-,-,-,-,-,1041,3,-,-,-,122.1
+Brandon LaFell WR - CIN,-,-,-,-2,-,862,6,-,-,-,122
+Rob Kelley RB - WAS,-,-,-,704,6,82,1,-,-,-,120.6
+A.J. Green WR - CIN,-,-,-,-,-,964,4,-,-,-,120.4
+Willie Snead WR - NO,50,1,-,-,-,895,4,-,-,-,119.5
+DeAndre Hopkins WR - HOU,-,-,-,-,-,954,4,-,-,-,119.4
+S TErling Shepard WR - NYG,-,-,-,31,-,683,8,-,-,-,119.4
+Marvin Jones WR - DET,-,-,-,3,-,930,4,-,-,-,117.3
+Mike Gillislee RB - NE,-,-,-,577,8,50,1,-,-,-,116.7
+Christine Michael RB - INDIR,-,-,-,583,7,107,1,-,-,1,115
+Cole Beasley WR - DAL,-,-,-,7,-,833,5,-,-,-,114
+Cameron Bra TE TE - TB,-,-,-,-,-,660,8,-,-,-,114
+Cameron Meredith WR - CHI,2,1,-,6,-,888,4,-,-,2,113.48
+Mar TEllus Bennett TE - GB,-,-,-,10,-,701,7,-,-,-,113.1
+Devontae Booker RB - DEN,-,-,-,612,4,265,1,-,-,3,111.7
+Case Keenum QB - MIN,2201,9,11,51,1,-,-,-,-,1,111.14
+Quincy Enunwa WR - NYJ,-,-,-,12,-,857,4,-,-,-,110.9
+Darren Sproles RB - PHI,-,-,-,438,2,427,2,-,-,-,110.5
+Marqise Lee WR - JAX,20,1,-,35,-,851,3,-,-,1,109.4
+S TEfon Diggs WR - MIN,-,-,-,10,-,903,3,-,-,-,109.3
+Theo Riddick RB - DET,-,-,-,357,1,371,5,-,-,-,108.8
+Anquan Boldin WR,-,-,-,-,-,584,8,-,-,-,106.4
+Zach Ertz TE - PHI,-,-,-,-,-,816,4,-,-,-,105.6
+Jerick McKinnon RB - MIN,-,-,-,539,2,255,2,-,1,-,105.4
+J.J. Nelson WR - ARI,-,-,-,83,1,568,6,-,-,1,105.1
+Taylor Gabriel WR - ATL,-,-,-,51,1,579,6,-,-,-,105
+ TEd Ginn WR - NO,-,-,-,98,-,752,4,-,-,2,105
+Dontrelle Inman WR - LAC,-,-,-,-,-,810,4,-,-,-,105
+Tim Hightower RB - SF,-,-,-,548,4,200,1,-,-,-,104.8
+Rashad Jennings RB,-,-,-,593,3,201,1,-,-,-,103.4
+Jordan Reed TE - WAS,-,-,-,-,-,686,6,-,-,1,102.6
+James Whi TE RB - NE,-,-,-,166,-,551,5,-,-,-,101.7
+Matt Asiata RB - DET,-,-,-,402,6,263,-,-,-,1,100.5
+Chris Thompson RB - WAS,-,-,-,356,3,349,2,-,-,1,98.5
+Jordan Matthews WR - PHI,-,-,-,-,-,804,3,-,-,-,98.4
+DeVan TE Parker WR - MIA,-,-,-,-,-,744,4,-,-,-,98.4
+Brandon Marshall WR - NYG,-,-,-,-,-,788,3,-,-,-,96.8
+Ty Montgomery RB - GB,-,-,-,457,3,348,-,-,-,1,96.5
+Antonio Ga TEs TE - LAC,-,-,-,-,-,548,7,-,-,1,94.8
+Alshon Jeffery WR - PHI,-,-,-,-,-,821,2,-,-,-,94.1
+Hun TEr Henry TE - LAC,-,-,-,-,-,478,8,-,-,1,93.8
+Derrick Henry RB -  TEN,-,-,-,490,5,137,-,-,-,-,92.7
+Duke Johnson RB - CLE,-,-,-,358,1,514,-,-,-,1,91.2
+Chris Hogan WR - NE,-,-,-,9,-,680,4,-,-,1,90.9
+Mohamed Sanu WR - ATL,-,-,-,5,-,653,4,-,1,1,89.8
+Tavon Austin WR - LA,-,-,-,159,1,509,3,-,-,1,88.8
+Randall Cobb WR - GB,-,-,-,33,-,610,4,-,-,-,88.3
+T.J. Yeldon RB - JAX,-,-,-,465,1,312,1,-,-,1,87.7
+Coby Fleener TE - NO,-,-,-,2,1,631,3,-,-,-,87.3
+C.J. Anderson RB - DEN,-,-,-,437,4,128,1,-,-,-,86.5
+Jalen Richard RB - OAK,-,-,-,491,1,194,2,-,-,-,86.5
+Jack Doyle TE - IND,-,-,-,-,-,584,5,-,-,1,86.4
+Travis Benjamin WR - LAC,-,-,-,-3,-,677,4,-,-,3,85.4
+Giovani Bernard RB - CIN,-,-,-,337,2,336,1,-,-,1,83.3
+Jason Wit TEn TE - DAL,-,-,-,-,-,673,3,-,-,1,83.3
+Eric Ebron TE - DET,-,-,-,1,1,711,1,-,-,-,83.2
+Tyler Lockett WR - SEA,-,-,-,114,1,597,1,-,-,-,83.1
+Dennis Pitta TE,-,-,-,-,-,729,2,-,-,1,82.9
+Jeremy Kerley WR - SF,-,-,-,-,-,667,3,-,-,1,82.7
+Robert Tu RBin RB - IND,-,-,-,164,7,179,1,-,-,-,82.3
+DeAngelo Williams RB,-,-,-,343,4,118,2,-,-,-,82.1
+ TErrance Williams WR - DAL,-,-,-,-,-,594,4,-,-,1,81.4
+Shaun Draughn RB - NYG,-,-,-,196,4,263,2,-,-,1,79.9
+C.J. Fiedorowicz TE - HOU,-,-,-,-,-,559,4,-,-,-,79.9
+Brian Hoyer QB - SF,1445,6,-,-2,-,-,-,-,-,1,79.6
+Charles Clay TE - BUF,-,-,-,-,-,552,4,-,-,-,79.2
+Michael Floyd WR - MIN,-,-,-,-,-,488,5,-,-,-,78.8
+Dwayne Allen TE - NE,-,-,-,-,-,406,6,-,1,-,78.6
+Adam Humphries WR - TB,-,-,-,18,-,622,2,-,1,-,78
+Eli Rogers WR - PIT,-,-,-,6,-,594,3,-,-,-,78
+Jacquizz Rodgers RB - TB,-,-,-,560,2,98,-,-,-,-,77.8
+Cody Kessler QB - CLE,1380,6,2,18,-,-,-,-,1,1,77
+Gary Barnidge TE,-,-,-,-,-,612,2,-,1,-,75.2
+Will Fuller WR - HOU,-,-,-,-3,-,635,2,-,-,-,75.2
+Zach Zenner RB - DET,-,-,-,334,4,196,-,-,-,1,75
+Chris Ivory RB - JAX,-,-,-,439,3,186,-,-,-,3,74.5
+Brian Quick WR - WAS,-,-,-,-,-,564,3,-,-,-,74.4
+Seth Roberts WR - OAK,-,-,-,-,-,397,5,-,2,-,73.7
+Robby Anderson WR - NYJ,-,-,-,42,-,587,2,-,-,1,72.9
+Blaine Gabbert QB - ARI,925,5,6,173,2,-16,-,-,-,-,72.7
+Zach Miller TE - CHI,-,-,-,-,-,486,4,-,-,-,72.6
+Don TE Moncrief WR - IND,-,-,-,-1,-,307,7,-,-,-,72.6
+Kenneth Dixon RB - BAL,-,-,-,382,2,162,1,-,-,-,72.4
+Rob Gronkowski TE - NE,-,-,-,-,-,540,3,-,-,-,72
+Doug Martin RB - TB,-,-,-,421,3,134,-,-,-,1,71.5
+Matt Barkley QB - SF,1611,8,14,2,-,2,1,-,-,2,70.84
+Damien Williams RB - MIA,-,-,-,115,3,249,3,-,-,1,70.4
+Vernon Davis TE - WAS,-,-,-,-,-,583,2,-,-,-,70.3
+Tyler Boyd WR - CIN,-,-,-,58,-,603,1,-,-,1,70.1
+Tyler Eifert TE - CIN,-,-,-,-,-,394,5,-,-,-,69.4
+DeAndre Washington RB - OAK,-,-,-,467,2,115,-,-,-,1,68.2
+Breshad Perriman WR - BAL,-,-,-,2,-,499,3,-,-,-,68.1
+Robert Woods WR - LA,-,-,-,6,-,613,1,-,-,-,67.9
+Matt Jones RB - WAS,-,-,-,460,3,73,-,-,-,2,67.3
+Robert Griffin III QB,886,2,3,190,2,-,-,-,-,1,66.44
+Charcandrick West RB - KC,-,-,-,293,1,188,2,-,-,-,66.1
+Phillip Dorsett WR - IND,-,-,-,10,-,528,2,-,-,-,65.8
+Allen Hurns WR - JAX,-,-,-,-,-,477,3,-,-,-,65.7
+Jeremy Maclin WR - BAL,-,-,-,-1,-,536,2,-,-,-,65.5
+John Brown WR - ARI,-,-,-,10,-,517,2,-,-,-,64.7
+Tajae Sharpe WR -  TEN,-,-,-,1,-,522,2,-,-,-,64.3
+Malcolm Mitchell WR - NE,-,-,-,-,-,401,4,-,-,-,64.1
+Devin Funchess WR - CAR,-,-,-,-,-,371,4,-,1,-,63.1
+Vance McDonald TE - SF,-,-,-,-,-,391,4,-,-,-,63.1
+Victor Cruz WR - CHI,-,-,-,-,-,586,1,-,-,1,62.6
+Thomas Rawls RB - SEA,-,-,-,349,3,96,-,-,-,-,62.5
+Paul Perkins RB - NYG,-,-,-,456,-,162,-,-,-,-,61.8
+Cordarrelle Pat TErson WR - OAK,-,-,-,43,-,453,2,-,-,-,61.6
+Marquise Goodwin WR - SF,-,-,-,-,-,431,3,-,-,-,61.1
+Kendall  WRight WR - CHI,-,-,-,15,-,416,3,-,-,-,61.1
+Corey Coleman WR - CLE,-,-,-,10,-,413,3,-,-,-,60.3
+Lance Kendricks TE - GB,-,-,-,-,-,499,2,-,-,1,59.9
+Rex Burkhead RB - NE,-,-,-,344,2,145,-,-,-,1,58.9
+Jermaine Kearse WR - SEA,-,-,-,-,-,510,1,-,-,-,57
+Sammie Coa TEs WR - PIT,-,-,-,14,-,435,2,-,-,-,56.9
+Sammy Watkins WR - BUF,-,-,-,-,-,430,2,-,-,-,55
+Matt Moore QB - MIA,721,8,3,-1,-,-,-,-,-,-,54.74
+Ryan Griffin TE - HOU,-,-,-,-,-,442,2,-,-,1,54.2
+Jeremy Langford RB - CHI,-,-,-,200,4,142,-,-,-,2,54.2
+Travaris Cadet RB - NO,-,-,-,19,-,281,4,-,-,-,54
+Clive Walford TE - OAK,-,-,-,-,-,359,3,-,-,-,53.9
+Jared Goff QB - LA,1089,5,7,16,1,-,-,-,-,2,53.16
+Chris Conley WR - KC,-,-,-,-,-,530,-,-,-,-,53
+Josh McCown QB - NYJ,1100,6,6,21,-,-,-,-,1,4,52.1
+Julius Thomas TE - MIA,-,-,-,-,-,281,4,-,-,-,52.1
+Nelson Agholor WR - PHI,-,-,-,14,-,365,2,-,1,-,51.9
+Jesse James TE - PIT,-,-,-,-,-,338,3,-,-,-,51.8
+Dorial Green-Beckham WR,-,-,-,-,-,392,2,-,-,-,51.2
+Jermaine Gresham TE - ARI,-,-,-,-,-,391,2,-,-,-,51.1
+Garrett Celek TE - SF,-,-,-,-,-,350,3,-,-,1,51
+Albert Wilson WR - KC,-,-,-,50,1,279,2,-,-,-,50.9
+Andrew Hawkins WR - NE,-,-,-,-,-,324,3,-,-,-,50.4
+Alfred Blue RB - HOU,-,-,-,420,1,40,-,-,-,1,50
+Dion Sims TE - CHI,-,-,-,-,-,256,4,-,-,-,49.6
+Eddie Royal WR,-,-,-,-,-,369,2,-,-,-,48.9
+Fozzy Whittaker RB - CAR,-,-,-,265,-,226,-,-,-,1,47.1
+Russell Shepard WR - CAR,-,-,-,9,-,341,2,-,-,-,47
+Danny Amendola WR - NE,-,-,-,-,-,243,4,-,-,1,46.3
+Brandon Coleman WR - NO,-,-,-,-,-,281,3,-,-,-,46.1
+Will Tye TE - NYG,-,-,-,-,-,395,1,-,-,-,45.5
+Jamize Olawale RB - OAK,-,-,-,47,2,227,1,-,-,-,45.4
+Austin Hooper TE - ATL,-,-,-,-,-,271,3,-,-,-,45.1
+Torrey Smith WR - PHI,-,-,-,-,-,267,3,-,-,-,44.7
+Justin Hardy WR - ATL,-,-,-,-,-,203,4,-,-,-,44.3
+Aldrick Robinson WR - SF,-,-,-,-,-,323,2,-,-,-,44.3
+C.J. Prosise RB - SEA,-,-,-,172,1,208,-,-,-,-,44
+Charles Sims RB - TB,-,-,-,149,1,190,1,-,-,1,43.9
+Justin Hun TEr WR - PIT,-,-,-,-,-,189,4,-,-,-,42.9
+Jared Cook TE - OAK,-,-,-,-,-,377,1,-,-,1,41.7
+Justin Forsett RB,-,-,-,291,1,85,-,-,-,1,41.6
+Quinton Patton WRIR,-,-,-,-,-,408,-,-,-,-,40.8
+John Kuhn RB - NO,-,-,-,37,4,70,1,-,-,-,40.7
+Wendell Smallwood RB - PHI,-,-,-,312,1,55,-,-,-,1,40.7
+Brice Butler WR - DAL,-,-,-,-,-,219,3,-,-,-,39.9
+James Starks RB,-,-,-,145,-,134,2,-,-,-,39.9
+Richard Rodgers TE - GB,-,-,-,-,-,271,2,-,-,-,39.1
+Jacob Tamme TE,-,-,-,-,-,210,3,-,-,-,39
+Kamar Aiken WR - IND,-,-,-,-,-,328,1,-,-,-,38.8
+Eddie Lacy RB - SEA,-,-,-,360,-,28,-,-,-,-,38.8
+Trey Burton TE - PHI,-,-,-,-,-,327,1,-,-,-,38.7
